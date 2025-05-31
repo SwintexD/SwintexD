@@ -1,23 +1,23 @@
-### Olá, bem-vindo ao meu perfil! 👋
+### Hello, welcome to my profile! 👋
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=SwintexD&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Vamos nos conectar?<br/> Eu sou desenvolvedor <strong>Fullstack</strong></p>
+<p>Let's connect!<br/> I am a <strong>Fullstack Developer</strong>.</p>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="desenvolvedor cartoon" width="280px" align="right"/>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="developer illustration" width="280px" align="right"/>
 
 ---
 
-### 👨‍💻 Sobre mim
+### 👨‍💻 About Me
 
 <p align="left">
-  Olá! Me chamo <strong>Vinicius</strong>, sou desenvolvedor Fullstack apaixonado por tecnologia, automações e soluções criativas.<br>
-  Atualmente, estou envolvido em projetos que envolvem <strong>scraping de dados em tempo real</strong>, <strong>automações</strong> e <strong>plataformas web escaláveis</strong>. 💻<br>
+  Hi! My name is <strong>Vinicius</strong>. I’m a Fullstack Developer passionate about technology, automation, and creative solutions.<br>
+  I’m currently working on projects involving <strong>real-time data scraping</strong>, <strong>automations</strong>, and <strong>scalable web platforms</strong>. 💻<br>
 </p>
 
 ---
 
-### 🦄 Linguagens/Frameworks que utilizo:
+### 🦄 Languages / Frameworks I Use:
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -35,7 +35,7 @@
 
 ---
 
-### 💼 Ferramentas e Tecnologias:
+### 💼 Tools & Technologies:
 <p align="left">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
@@ -46,7 +46,7 @@
 
 ---
 
-### 💌 Entre em contato comigo:
+### 💌 Get in Touch
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vinicius-h-menezes/" target="_blank">
