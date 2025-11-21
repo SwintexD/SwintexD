@@ -48,7 +48,12 @@
 ### 📜 Projects:
 <details>
   <summary>📦  </summary>
-
+  
+<p align="left">
+  <a href="https://github.com/SwintexD/bAUTO" target="_blank">
+    <img src="https://img.shields.io/badge/b%20AUTO-3d89fc?style=for-the-badge&logo=%20&logoColor=white"/>
+    </a>
+</p>
 <p align="left">
   <a href="https://github.com/SwintexD/Telegram-Bot-v1.0.1" target="_blank">
     <img src="https://img.shields.io/badge/Telegram%20BOT-3d89fc?style=for-the-badge&logo=%20&logoColor=white"/>
