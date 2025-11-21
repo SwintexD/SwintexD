@@ -46,6 +46,9 @@
 
 ---
 ### 📜 Projects:
+<details>
+  <summary>📦  </summary>
+
 <p align="left">
   <a href="https://github.com/SwintexD/Telegram-Bot-v1.0.1" target="_blank">
     <img src="https://img.shields.io/badge/Telegram%20BOT-3d89fc?style=for-the-badge&logo=%20&logoColor=white"/>
@@ -56,6 +59,8 @@
     <img src="https://img.shields.io/badge/Nex%20Role-231F20.svg?style=for-the-badge&logo=&logoColor=white"/>
     </a>
 </p>
+
+</details>
 
 ---
 ### 💌 Get in Touch
